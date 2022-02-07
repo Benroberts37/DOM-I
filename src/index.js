@@ -91,3 +91,5 @@ navLinks.forEach((link, idx) => {
 for (let link of document.querySelectorAll('header nav a')) {
   console.log(link)
 }
+
+//Adding a line for testing purposes 
